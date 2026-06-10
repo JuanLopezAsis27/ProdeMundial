@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WorldCup.API/WorldCup.API.csproj" />
+    <Project Path="src/WorldCup.Application/WorldCup.Application.csproj" />
+    <Project Path="src/WorldCup.Domain/WorldCup.Domain.csproj" />
+    <Project Path="src/WorldCup.Infrastructure/WorldCup.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WorldCup.Tests/WorldCup.Tests.csproj" />
+  </Folder>
+</Solution>

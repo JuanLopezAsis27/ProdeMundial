@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/qNn2ZmPrc=",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Desarrollo\\ProdeMundial\\backend\\src\\WorldCup.Domain\\WorldCup.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

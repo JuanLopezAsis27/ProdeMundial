@@ -1,0 +1,12 @@
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\bin\Debug\net10.0\WorldCup.Domain.deps.json
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\bin\Debug\net10.0\WorldCup.Domain.dll
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\bin\Debug\net10.0\WorldCup.Domain.pdb
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\obj\Debug\net10.0\WorldCup.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\obj\Debug\net10.0\WorldCup.Domain.AssemblyInfoInputs.cache
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\obj\Debug\net10.0\WorldCup.Domain.AssemblyInfo.cs
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\obj\Debug\net10.0\WorldCup.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\obj\Debug\net10.0\WorldCup.Domain.dll
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\obj\Debug\net10.0\refint\WorldCup.Domain.dll
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\obj\Debug\net10.0\WorldCup.Domain.pdb
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\obj\Debug\net10.0\ref\WorldCup.Domain.dll
+D:\Documents\Desarrollo\ProdeMundial\backend\src\WorldCup.Domain\obj\Debug\net10.0\WorldCup.Domain.csproj.AssemblyReference.cache
